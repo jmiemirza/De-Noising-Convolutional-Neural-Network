@@ -3,7 +3,7 @@
 A minimal implementation of a <b>Convolution Auto-Encoder</b> in <b>TensorFlow 2.0</b> and using <b>Keras.Sequential</b>.
 
 <p align="center">
-  <src="convolution_auto_encoder/cae.png">
+  <img width="460" height="300" src="convolution_auto_encoder/cae.png">
 </p>
 
 A convolution autoencoder takes a noisy image as a input and then produces the de-noised images as an output. The goal was to extend the already exisiting auto-encoders available for MNIST dataset and implement it for a custom dataset. 
