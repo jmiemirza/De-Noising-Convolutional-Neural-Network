@@ -16,5 +16,6 @@ First I take the original images from the ASTAR-3D dataset and then create patch
 
 <b>Please have a look at all the files to understand the procedure</b>. I have also included the test samples I have taken from the ASTAR 3D dataset and have also generated the corresponding grayscale patches.
 
+**Work is still in progress with the Custom Dataset Model. Trying to implement more things to enhance the performance!**
  
 
