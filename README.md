@@ -2,8 +2,6 @@
 
 A minimal implementation of a <b>Convolution Auto-Encoder</b> in <b>TensorFlow 2.0</b> and using <b>Keras.Sequential</b>.
 
-<div style="text-align:center"><img src="convolution_auto_encoder/cae.png" /></div>
-
 <p align="center">
   <src="convolution_auto_encoder/cae.png">
 </p>
