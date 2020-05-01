@@ -10,7 +10,7 @@ A convolution autoencoder takes a noisy image as a input and then produces the d
 
 In this repository an implementation for both the custom dataset and MNIST dataset is present. For the custom dataset, you will need to clone the complete repository while for the MNIST model you can only work with <b>model_minst_data.py</b>. 
 
-The repository also contains how to generate the grey image patches from the dataset. The dataset which I have chosen is the ASTAR 3D dataset. It is an autonomous driving dataset. More details can be found: [here!] (https://github.com/I2RDL2/ASTAR-3D)
+The repository also contains how to generate the grey image patches from the dataset. The dataset which I have chosen is the ASTAR 3D dataset. It is an autonomous driving dataset. More details can be found here:(https://github.com/I2RDL2/ASTAR-3D)
 
 First I take the original images from the ASTAR-3D dataset and then create patches of 256x256 randomly and then create the grey scale patches after that to keep the computation at a bare minimum. Different scripts can be used to carry out the tasks. 
 
